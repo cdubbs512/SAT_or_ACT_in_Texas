@@ -37,7 +37,7 @@ I decided to look at **Texas**, where I live, in light of the currently being di
 
 The data we were provided with composed of the average scores of each tests’ sections and the overall composite scores. I cleaned it accordingly, conducted exploratory data analysis on it, used Tableau to visualize the data, and analyzed the data using descriptive and inferential statistics.
 
-My presentation is as follows and the link to the project can be found here on GitHub.
+The following is the context of the problem I sought to see if the data provided would allow us to address. 
 
 # Introduction - A Texas Size Opportunity for the College Board
 
